@@ -13,34 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💬 Hello there, I'm Fahmi!
+## 💬 Hi there! I'm Fahmi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I love learning and sharing IT related stuffs, for now I'm currently learning on these topics :
+I'm a Cyber Security enthusiast. I love learning IT related stuff and share about them through writing or mentorship.
 
-- 🌱 Ethical Hacking
-- 🌱 Golang 
-- 🌱 Windows and Linux Server including virtualization
+I'm currently learning on these topics : 
+
+- 🌱 Ethical Hacking 
+- 🌱 Golang Microservices 
+- 🌱 Windows and Linux System Administration
 
 You can access my previous learning materials on my github repositories (some are still on progress).
 
-> Benjamin Franklin once said, 
->> *An investment in knowledge always pays the best interest.*
+> *An investment in knowledge always pays the best interest*  
+> ─ Benjamin Franklin
 
 So.. explore your curiousity !
 
 
 ## 🔰 Github Stats
 
-![Fahmi Gitstat ](https://github-readme-stats.vercel.app/api?username=fahmi1597&show_icons=true&theme=tokyonight)
+![Fahmi Gitstat](https://github-readme-stats.vercel.app/api?username=fahmi1597&show_icons=true&theme=nord)
 
-![Fahmi Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi1597&hide=makefile,objective-c&theme=tokyonight)
-
+![Fahmi Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi1597&theme=nord&layout=compact)
 
 ## 📝 My Latest Medium Articles
-
 <a href="https://medium.com/@itsef">
   <img src="https://github-readme-medium.vercel.app/?username=itsef&limit=3" />
 </a>
-
-
-
