@@ -35,9 +35,9 @@ So.. explore your curiousity !
 
 ![Fahmi Gitstat](https://github-readme-stats.vercel.app/api?username=fahmi1597&show_icons=true&theme=nord)
 
-![Fahmi Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi1597&theme=nord&layout=compact)
+![Fahmi Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi1597&theme=nord&layout=compact&hide=makefile,css)
 
 ## 📝 My Latest Medium Articles
 <a href="https://medium.com/@itsef">
-  <img src="https://github-readme-medium.vercel.app/?username=itsef&limit=3" />
+  <img src="https://github-readme-medium.vercel.app/?username=itsef&limit=2" />
 </a>
