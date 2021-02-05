@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 
 ## 💬 Hi there! I'm Fahmi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Cyber Security enthusiast. I love learning IT related stuff and share about them through writing or mentorship.
+Welcome to my github repository. 
 
-I'm currently learning on these topics : 
-
-- 🌱 Ethical Hacking 
-- 🌱 Golang Microservices 
-- 🌱 Windows and Linux System Administration
+I'm currently learning on these topics: 
+  - 🕸 Web Application and Security
+  - 🔧 Back-end Web Development with Go
+  - 🐧 Windows & Linux System Administration
 
 You can access my previous learning materials on my github repositories (some are still on progress).
 
@@ -31,13 +30,33 @@ You can access my previous learning materials on my github repositories (some ar
 So.. explore your curiousity !
 
 
+<br>
+
 ## 🔰 Github Stats
+<hr>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&theme=nord&hide=makefile&langs_count=6&layout=compact" />
+</a>
 
-![Fahmi Gitstat](https://github-readme-stats.vercel.app/api?username=fahmi1597&show_icons=true&theme=nord)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&theme=nord&hide_title=true&include_all_commits=true&hide_rank=true" />
+</a>
+<hr>
 
-![Fahmi Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmi1597&theme=nord&layout=compact&hide=makefile,css)
+<a href="https://github.com/fahmifj/microservices-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahmifj&repo=microservices-go&theme=nord" />
+</a> 
+<a href="https://github.com/fahmifj/TryHackMe-notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahmifj&repo=TryHackMe-notes&theme=nord" />
+</a>
+
+<!-- ![Fahmi Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&theme=nord&hide=makefile,css,c) 
+
+
+![Fahmi Gitstat](https://github-readme-stats.vercel.app/api?username=fahmifj&hide_rank=true&show_icons=true&theme=nord&hide_title=true&count_private=true&include_all_commits=true) -->
+
 
 ## 📝 My Latest Medium Articles
-<a href="https://medium.com/@itsef">
-  <img src="https://github-readme-medium.vercel.app/?username=itsef&limit=2" />
-</a>
+<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0" alt="Recent Article 0"></a>
+<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1" alt="Recent Article 1"></a>
+<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2" alt="Recent Article 2"></a>
