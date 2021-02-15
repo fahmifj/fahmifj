@@ -1,28 +1,3 @@
-<style>
-.icon {
-  vertical-align:top;
-  height: 55px;
-  margin: 4px;
-}
-.badge {
-  vertical-align:top;
-  margin: 2px;
-  height: 55px;
-}
-
-.badge-thm {
-  vertical-align:top;
-  margin: 2px;
-}
-
-hr {
-    border: 0;
-    height: 1px;
-    background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);
-}
-</style>
-
 ## 💬 Hi, and welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm Fahmi, a Junior Sysadmin who is enthusiastic about Cyber Security. I like to play boot2root CTF challenges at Hack The Box and TryHackMe.
@@ -49,11 +24,11 @@ Some of my learning materials and resources are available on my [Repositories](h
   <img height="40" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
 </p>
 <p align="center"> 
-  <a href="https://golang.org" target="_blank">
+  <a href="https://app.hackthebox.eu/profile/265868" target="_blank">
     <img src="http://www.hackthebox.eu/badge/image/265868" alt="Hack The Box" class="badge" >
   </a> 
-  <a href="https://golang.org" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/iamf.png" alt="TryHackMe" class="badge-thm">
+  <a href="https://tryhackme.com/p/iamf" target="_blank">
+    <img src="https://i.imgur.com/6oR8CVH.png" alt="TryHackMe" style="vertical-align:top;margin: 2px;">
   </a> 
 </p>
 
@@ -63,43 +38,43 @@ Some of my learning materials and resources are available on my [Repositories](h
 
 <p align="center">   
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" class="icon" > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="50" height="50" style="vertical-align:top;margin:2px;"> 
   </a> 
 
   <a href="https://www.kali.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali linux" height="50" style="margin:4px" > 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali linux" height="55" style="margin:4px" > 
   </a> 
 
   <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" class="icon" > 
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" style="vertical-align:top;margin:2px;" > 
   </a> 
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" class="icon" /> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" style="vertical-align:top;margin:2px;" /> 
   </a> 
   
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" class="icon" /> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="vertical-align:top;margin:2px;" /> 
   </a> 
 
   <a href="https://www.virtualbox.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="linux" class="icon" > 
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" style="vertical-align:top;margin:2px;"  > 
   </a> 
   
   <a href="https://golang.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" class="icon" width="80"> 
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" height="50" width="80" style="margin:2px;" > 
   </a> 
 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" class="icon" /> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="vertical-align:top;margin:2px;" /> 
   </a>
 
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" class="icon" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="vertical-align:top;margin:2px;" /> 
   </a> 
 
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" class="icon"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="vertical-align:top;margin:2px;" /> 
   </a> 
 
 </p>
