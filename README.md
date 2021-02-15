@@ -25,10 +25,10 @@ Some of my learning materials and resources are available on my [Repositories](h
 </p>
 <p align="center"> 
   <a href="https://app.hackthebox.eu/profile/265868" target="_blank">
-    <img src="http://www.hackthebox.eu/badge/image/265868" alt="Hack The Box" height="53" style="vertical-align:top;margin: 2px;">
+    <img src="http://www.hackthebox.eu/badge/image/265868" alt="Hack The Box">
   </a> 
   <a href="https://tryhackme.com/p/iamf" target="_blank">
-    <img src="https://i.imgur.com/6oR8CVH.png" alt="TryHackMe" style="vertical-align:top;margin: 2px;">
+    <img src="https://i.imgur.com/6oR8CVH.png" alt="TryHackMe" height="52" width="220">
   </a> 
 </p>
 
@@ -37,7 +37,7 @@ Some of my learning materials and resources are available on my [Repositories](h
 <br>
 <p align="center">   
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" height="40" style="vertical-align:top;margin:2px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" height="40"> 
   </a> 
   
   <a href="https://www.kali.org/" target="_blank"> 
@@ -74,7 +74,7 @@ Some of my learning materials and resources are available on my [Repositories](h
   </a> 
 
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="vertical-align:top;margin:2px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> 
   </a> 
   
   <a href="https://www.virtualbox.org/" target="_blank"> 
