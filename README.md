@@ -25,7 +25,7 @@ Some of my learning materials and resources are available on my [Repositories](h
 </p>
 <p align="center"> 
   <a href="https://app.hackthebox.eu/profile/265868" target="_blank">
-    <img src="http://www.hackthebox.eu/badge/image/265868" alt="Hack The Box" class="badge" >
+    <img src="http://www.hackthebox.eu/badge/image/265868" alt="Hack The Box" height="55" style="vertical-align:top;margin: 2px;">
   </a> 
   <a href="https://tryhackme.com/p/iamf" target="_blank">
     <img src="https://i.imgur.com/6oR8CVH.png" alt="TryHackMe" style="vertical-align:top;margin: 2px;">
