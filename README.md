@@ -1,6 +1,6 @@
 ## 💬 Hi, and welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Fahmi, a Junior Sysadmin who is enthusiastic about Cyber Security. I like to play boot2root CTF challenges at Hack The Box and TryHackMe.
+I'm Fahmi, a Junior Sysadmin trying to become a Penetration Tester. I like to play boot2root CTF challenges at Hack The Box and TryHackMe.
 
 ---
 ### 🌱 I’m currently learning ... 
@@ -12,9 +12,12 @@ I'm Fahmi, a Junior Sysadmin who is enthusiastic about Cyber Security. I like to
 
 Some of my learning materials and resources are available on my [Repositories](https://github.com/fahmifj?tab=repositories) tab.
 
+<div align="center">
+
 > *An investment in knowledge always pays the best interest*  
 > ─ Benjamin Franklin  
 
+</div>
 ---
 ### 📍 Find me on ...
 
@@ -87,18 +90,9 @@ Some of my learning materials and resources are available on my [Repositories](h
 ---
 ### 📝 Latest blog posts
 
-<br> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0" alt="Recent Article 0">
+<a href="https://medium.com/@fahmifj">
+  <img src="https://github-readme-medium.vercel.app/?username=fahmifj&limit=3" />
 </a>
-<br> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1" alt="Recent Article 1">
-  </a>
-<br> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2" alt="Recent Article 2">
-  </a>
 
 ---
 ### 🔰 Statistic
@@ -134,9 +128,22 @@ Here are some ideas to get you started:
 [TryHackMe]: https://tryhackme.com/p/iamf
 [Medium]: https://medium.com/@fahmifj
 
-  <!-- <a href="https://www.linux.org/" target="_blank"> 
+  <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" class="icon" > 
-  </a>  -->
+  </a>  
+  <br> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0" alt="Recent Article 0">
+</a>
+<br> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1" alt="Recent Article 1">
+  </a>
+<br> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2" alt="Recent Article 2">
+  </a> 
+  -->
 
 
 
