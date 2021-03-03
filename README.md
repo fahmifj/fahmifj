@@ -1,16 +1,20 @@
 ## 💬 Hi, and welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Fahmi, a Junior Sysadmin trying to become a Penetration Tester. I like to play boot2root CTF challenges at Hack The Box and TryHackMe.
+I'm Fahmi, an ordinary person trying to become a Penetration Tester. I like to play boot2root CTF challenges at Hack The Box and TryHackMe.
 
 ---
-### 🌱 I’m currently learning ... 
+### 🌱 Recent activity ... 
 
-- 🐱‍💻 Web Application Security 
-- 👨‍💻 Scripting with Python
-- 🐧 Windows & Linux System Administration (Cloud as well!)
-- 🕸 Back End Web Development with Go
+I'm currently interested in learning:
+- 🐱‍💻 Web application security 
+- 👨‍💻 Scripting with Python 
 
-Some of my learning materials and resources are available on my [Repositories](https://github.com/fahmifj?tab=repositories) tab.
+Some of my learning materials and resources are available in my [Repositories](https://github.com/fahmifj?tab=repositories).  
+### 🔭 Things that I know and capable of ...
+
+- 🐱‍💻 Ethical hacking
+- 🐧 Windows & Linux system administration (cloud as well!)
+- 🕸 Entry level back-end web development with Golang
 
 <div align="center">
 
@@ -100,13 +104,13 @@ Some of my learning materials and resources are available on my [Repositories](h
 
 
 <p align="center">
+  
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&theme=nord&include_all_commits=true&hide_title=true" />
+</a>
   <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&theme=nord&hide=makefile,css,c&langs_count=6&layout=compact" />
   </a>
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&theme=nord&hide_title=true&include_all_commits=true&hide_rank=true" />
-</a>
 </p>
 
 <hr>
@@ -145,6 +149,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2" alt="Recent Article 2">
   </a> 
   -->
-
-
-
