@@ -9,7 +9,7 @@ I'm currently interested in learning:
 - 🐱‍💻 Web application security 
 - 👨‍💻 Scripting with Python 
 
-Some of my learning materials and resources are available in my [Repositories](https://github.com/fahmifj?tab=repositories).  
+Some of my learning materials, resources and projects are available in my [Repositories](https://github.com/fahmifj?tab=repositories).  
 ### 🔭 Things that I know and capable of ...
 
 - 🐱‍💻 Ethical hacking
@@ -29,6 +29,9 @@ Some of my learning materials and resources are available in my [Repositories](h
 <p align="center">
   <a href = "https://medium.com/@fahmifj" target="_blank"> 
     <img height="40" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" />
+  </a>
+    <a href = "https://discord.com/users/305634994938707969" target="_blank"> 
+    <img height="40" src="https://img.shields.io/badge/-Discord-000000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Medium" />
   </a>
 </p>
 <p align="center"> 
