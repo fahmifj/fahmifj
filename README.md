@@ -1,20 +1,21 @@
-## 💬 Hi, and welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## 💬 Hi and welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm Fahmi, an ordinary person trying to become a Penetration Tester. I like to play boot2root CTF challenges at Hack The Box and TryHackMe.
+an IT enthusiast from Indonesia. 
 
 ---
-### 🌱 Recent activity ... 
+### 🌱 Recent activity
 
-I'm currently interested in learning:
-- 🐱‍💻 Web application security 
+- 🐱‍💻 Pwning TJNull's OSCP-like machines
+- 💻 Building new virtual labs.
 - 👨‍💻 Scripting with Python 
 
-Some of my learning materials, resources and projects are available in my [Repositories](https://github.com/fahmifj?tab=repositories).  
-### 🔭 Things that I know and capable of ...
+Notes or documentation of previous learning materials and projects can be found on my [repository](https://github.com/fahmifj?tab=repositories)
 
-- 🐱‍💻 Ethical hacking
-- 🐧 Windows & Linux system administration (cloud as well!)
-- 🕸 Entry level back-end web development with Golang
+### 🔭 Interests 
+
+- 🐱‍💻 Ethical Hacking/Penetration Testing
+- 🐱‍💻 Web Application & Security 
+- 🤖 DevOps (CI/CD, Containerization, Virtualization)
 
 <div align="center">
 
@@ -46,11 +47,12 @@ Some of my learning materials, resources and projects are available in my [Repos
 ---
 ### 💻 I'm familiar with ...
 <br>
+
 <p align="center">   
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" height="40"> 
   </a> 
-  
+
   <a href="https://www.kali.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali linux" height="45" style="margin:4px" > 
   </a> 
@@ -62,7 +64,7 @@ Some of my learning materials, resources and projects are available in my [Repos
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50" alt="azure" /> 
   </a> 
-  
+
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50" /> 
   </a> 
@@ -79,7 +81,7 @@ Some of my learning materials, resources and projects are available in my [Repos
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="50" width="60"/> 
   </a>
-  
+
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
   </a> 
@@ -87,16 +89,16 @@ Some of my learning materials, resources and projects are available in my [Repos
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> 
   </a> 
-  
+
   <a href="https://www.virtualbox.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" height="50"> 
   </a> 
-  
+
 
 </p>
 
 ---
-### 📝 Latest blog posts
+### 📝 Latest Medium blog posts
 
 <a href="https://medium.com/@fahmifj">
   <img src="https://github-readme-medium.vercel.app/?username=fahmifj&limit=3" />
@@ -107,7 +109,7 @@ Some of my learning materials, resources and projects are available in my [Repos
 
 
 <p align="center">
-  
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&theme=nord&include_all_commits=true&hide_title=true" />
 </a>
@@ -131,24 +133,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[HackTheBox]: https://app.hackthebox.eu/profile/265868
-[TryHackMe]: https://tryhackme.com/p/iamf
-[Medium]: https://medium.com/@fahmifj
-
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" class="icon" > 
-  </a>  
-  <br> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/0" alt="Recent Article 0">
-</a>
-<br> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/1" alt="Recent Article 1">
-  </a>
-<br> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fahmifj/2" alt="Recent Article 2">
-  </a> 
   -->
