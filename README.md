@@ -1,15 +1,12 @@
 ## 💬 Hi and welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-an IT enthusiast from Indonesia. 
+I'm Fahmi, IT enthusiast from Indonesia.
 
 ---
 ### 🌱 Recent activity
 
 - 🐱‍💻 Pwning TJNull's OSCP-like machines
-- 💻 Building new virtual labs.
-- 👨‍💻 Scripting with Python 
-
-Notes or documentation of previous learning materials and projects can be found on my [repository](https://github.com/fahmifj?tab=repositories)
+- 💻 Building new virtual labs. 
 
 ### 🔭 Interests 
 
@@ -114,7 +111,7 @@ Notes or documentation of previous learning materials and projects can be found 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&theme=nord&include_all_commits=true&hide_title=true" />
 </a>
   <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&theme=nord&hide=makefile,css,c&langs_count=6&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&theme=nord&hide=makefile,css,c,roff,html&langs_count=6&layout=compact" />
   </a>
 </p>
 
