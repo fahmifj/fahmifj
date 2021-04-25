@@ -1,66 +1,57 @@
-## 💬 Hi and welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+```
+       .--.                   .---.
+   .---|__|           .-.     |~~~|
+.--|===|--|_          |_|     |~~~|--.
+|  |===|  |'\     .---!~|  .--|   |--|
+|%%|   |  |.'\    |===| |--|%%|   |  |
+|%%|   |  |\.'\   |   | |__|  |   |  |
+|  |   |  | \  \  |===| |==|  |   |  |
+|  |   |__|  \.'\ |   |_|__|  |~~~|__|   
+|  |===|--|   \.'\|===|~|--|%%|~~~|--|  
+^--^---'--^    `-'`---^-^--^--^---'--'  友人F
+```
 
-I'm Fahmi, IT enthusiast from Indonesia.
-
----
-### 🌱 Recent activity
+### 🔭 Currently working on
 
 - 🐱‍💻 Pwning TJNull's OSCP-like machines
-- 💻 Building new virtual labs. 
+- 💻 Building new virtual pentest labs.
 
-### 🔭 Interests 
+### 🎯 Interests
 
 - 🐱‍💻 Ethical Hacking/Penetration Testing
-- 🐱‍💻 Web Application & Security 
-- 🤖 DevOps (CI/CD, Containerization, Virtualization)
+- 🐱‍💻 Web Application & Security
+- 🤖 System Automation/DevOps things (CI/CD, Containerization, Virtualization)
 
-<div align="center">
+### 📬 Contacts
 
-> *An investment in knowledge always pays the best interest*  
-> ─ Benjamin Franklin  
+<a href = "https://discord.com/users/305634994938707969" target="_blank"> 
+<img height="40" src="https://img.shields.io/badge/-Discord-000000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Medium" />
+</a>
 
-</div>
+<a href = "mailto:ophiodev.fahmi@gmail.com" target="_blank"> 
+<img height="40" src="https://img.shields.io/badge/-Email-000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Medium" />
+</a>
 
----
-### 📍 Find me on ...
-
-<p align="center">
-  <a href = "https://medium.com/@fahmifj" target="_blank"> 
-    <img height="40" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" />
-  </a>
-    <a href = "https://discord.com/users/305634994938707969" target="_blank"> 
-    <img height="40" src="https://img.shields.io/badge/-Discord-000000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Medium" />
-  </a>
-</p>
-<p align="center"> 
-  <a href="https://app.hackthebox.eu/profile/265868" target="_blank">
-    <img src="http://www.hackthebox.eu/badge/image/265868" alt="Hack The Box">
-  </a> 
-  <a href="https://tryhackme.com/p/iamf" target="_blank">
-    <img src="https://i.imgur.com/6oR8CVH.png" alt="TryHackMe" height="52" width="220">
-  </a> 
-</p>
-
----
 ### 💻 I'm familiar with ...
+
 <br>
 
 <p align="center">   
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" height="40"> 
-  </a> 
+  </a>
 
   <a href="https://www.kali.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali linux" height="45" style="margin:4px" > 
-  </a> 
+  </a>
 
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" height="50"> 
-  </a> 
+  </a>
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50" alt="azure" /> 
-  </a> 
+  </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50" /> 
@@ -69,11 +60,11 @@ I'm Fahmi, IT enthusiast from Indonesia.
 
   <div></div>
 
-<p align="center">   
+<p align="center">
 
   <a href="https://golang.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" height="50" width="75" style="margin:2px;" > 
-  </a> 
+  </a>
 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="50" width="60"/> 
@@ -81,53 +72,19 @@ I'm Fahmi, IT enthusiast from Indonesia.
 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
-  </a> 
+  </a>
 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> 
-  </a> 
+  </a>
 
   <a href="https://www.virtualbox.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" height="50"> 
-  </a> 
-
-
-</p>
-
----
-### 📝 Latest Medium blog posts
-
-<a href="https://medium.com/@fahmifj">
-  <img src="https://github-readme-medium.vercel.app/?username=fahmifj&limit=3" />
-</a>
-
----
-### 🔰 Statistic
-
-
-<p align="center">
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&theme=nord&include_all_commits=true&hide_title=true" />
-</a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&theme=nord&hide=makefile,css,c,roff,html&langs_count=6&layout=compact" />
   </a>
+
 </p>
 
-<hr>
+### 📝 Latest Medium Posts
 
-<!--
-**fahmi1597/fahmi1597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
