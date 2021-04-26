@@ -87,4 +87,8 @@
 ### 📝 Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hack The Box — Bucket 10.10.10.212 Writeup](https://fahmifj.medium.com/hack-the-box-bucket-10-10-10-212-writeup-4b6a578e2865?source=rss-1354259e1c27------2)
+- [Hack The Box — Laboratory 10.10.10.216 Writeup](https://fahmifj.medium.com/hack-the-box-laboratory-10-10-10-216-writeup-6f75fa2d177d?source=rss-1354259e1c27------2)
+- [Hack The Box — APT 10.10.10.213 Writeup](https://fahmifj.medium.com/hack-the-box-apt-10-10-10-213-writeup-b4b774de1ff9?source=rss-1354259e1c27------2)
+- [Stealing NetNTLM Hashes Using hh.exe](https://fahmifj.medium.com/stealing-netntlm-hashes-using-hh-exe-20e2f60a386?source=rss-1354259e1c27------2)
 <!-- BLOG-POST-LIST:END -->
