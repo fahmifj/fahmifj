@@ -13,7 +13,7 @@
 
 ### 🔭 Currently working on
 
-- 🐱‍💻 Pwning TJNull's OSCP-like machines
+- 🐱‍💻 [Pwning TJNull's OSCP-like machines](https://fahmifj.github.io/tags/oscp-like/)
 - 💻 Building new virtual pentest labs.
 
 ### 🎯 Interests
@@ -34,55 +34,46 @@
 
 ### 💻 I'm familiar with ...
 
-<br>
 
-<p align="center">   
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" height="40"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" height="40" style="margin:4px"> 
   </a>
 
   <a href="https://www.kali.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali linux" height="45" style="margin:4px" > 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="kali linux" height="40" style="margin:4px" > 
   </a>
 
   <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" height="50"> 
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" height="40" style="margin:4px"> 
   </a>
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50" alt="azure" /> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="azure" style="margin:4px"/> 
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50" /> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40" style="margin:4px" /> 
   </a> 
-</p>
-
-  <div></div>
-
-<p align="center">
 
   <a href="https://golang.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" height="50" width="75" style="margin:2px;" > 
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" height="40" style="margin:4px;" > 
   </a>
 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="50" width="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" /> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" /> 
   </a>
 
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" style="margin:4px"/> 
   </a>
 
   <a href="https://www.virtualbox.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" height="50"> 
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" height="40" style="margin:4px"> 
   </a>
-
-</p>
 
 ### 📝 Latest Medium Posts
 
@@ -92,3 +83,14 @@
 - [Hack The Box — APT 10.10.10.213 Writeup](https://fahmifj.medium.com/hack-the-box-apt-10-10-10-213-writeup-b4b774de1ff9?source=rss-1354259e1c27------2)
 - [Stealing NetNTLM Hashes Using hh.exe](https://fahmifj.medium.com/stealing-netntlm-hashes-using-hh-exe-20e2f60a386?source=rss-1354259e1c27------2)
 <!-- BLOG-POST-LIST:END -->
+
+### 🔰 Stats
+<!-- GitHub Stats -->
+
+<a href="https://github.com/fahmifj">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&hide=html,css,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/fahmifj">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fahmi's GitHub Stats" />
+</a>
