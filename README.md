@@ -14,13 +14,12 @@
 ### 🔭 Currently working on
 
 - 🐱‍💻 [Pwning TJNull's OSCP-like machines](https://fahmifj.github.io/tags/oscp-like/)
-- 💻 Building new virtual pentest labs.
 
 ### 🎯 Interests
 
 - 🐱‍💻 Ethical Hacking/Penetration Testing
 - 🐱‍💻 Web Application & Security
-- 🤖 System Automation/DevOps things (CI/CD, Containerization, Virtualization)
+- 🤖 DevOps things (CI/CD, Containerization, Virtualization)
 
 ### 📬 Contacts
 
