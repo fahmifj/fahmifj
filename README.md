@@ -27,7 +27,7 @@
 <img height="40" src="https://img.shields.io/badge/-Discord-000000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Medium" />
 </a>
 
-<a href = "mailto:ophiodev.fahmi@gmail.com" target="_blank"> 
+<a href = "mailto:fahmifj@pm.me" target="_blank"> 
 <img height="40" src="https://img.shields.io/badge/-Email-000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Medium" />
 </a>
 
