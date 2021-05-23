@@ -77,10 +77,10 @@
 ### 📝 Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HackTheBox — Delivery Write-up](https://fahmifj.medium.com/hackthebox-delivery-write-up-c15d44dcc800?source=rss-1354259e1c27------2)
 - [Hack The Box — Ready 10.10.10.220 Writeup](https://fahmifj.medium.com/hack-the-box-ready-10-10-10-220-writeup-ff4293897b06?source=rss-1354259e1c27------2)
 - [Hack The Box — Time 10.10.10.214 Writeup](https://fahmifj.medium.com/hack-the-box-time-10-10-10-214-writeup-c36044827a13?source=rss-1354259e1c27------2)
 - [Hack The Box — Passage 10.10.10.206 Writeup](https://fahmifj.medium.com/hack-the-box-passage-10-10-10-206-writeup-d071577888c2?source=rss-1354259e1c27------2)
-- [Hack The Box — Bucket 10.10.10.212 Writeup](https://fahmifj.medium.com/hack-the-box-bucket-10-10-10-212-writeup-4b6a578e2865?source=rss-1354259e1c27------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔰 Stats
