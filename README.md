@@ -23,13 +23,19 @@
 
 ### 📬 Contacts
 
-<a href = "https://discord.com/users/305634994938707969" target="_blank"> 
-<img height="40" src="https://img.shields.io/badge/-Discord-000000.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Medium" />
-</a>
+- [Discord](https://discord.com/users/305634994938707969)
 
-<a href = "mailto:fahmifj@pm.me" target="_blank"> 
-<img height="40" src="https://img.shields.io/badge/-Email-000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Medium" />
-</a>
+- [fahmifj@pm.me](mailto:fahmifj@pm.me)
+
+### 📝 My latest Medium posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Linux Backdoors and Where to Find Them](https://fahmifj.medium.com/linux-backdoors-and-where-to-find-them-3b29888bdb98?source=rss-1354259e1c27------2)
+- [HackTheBox — Delivery Write-up](https://fahmifj.medium.com/hackthebox-delivery-write-up-c15d44dcc800?source=rss-1354259e1c27------2)
+- [Hack The Box — Ready 10.10.10.220 Writeup](https://fahmifj.medium.com/hack-the-box-ready-10-10-10-220-writeup-ff4293897b06?source=rss-1354259e1c27------2)
+- [Hack The Box — Time 10.10.10.214 Writeup](https://fahmifj.medium.com/hack-the-box-time-10-10-10-214-writeup-c36044827a13?source=rss-1354259e1c27------2)
+<!-- BLOG-POST-LIST:END -->
+
 
 ### 💻 I'm familiar with ...
 
@@ -74,14 +80,6 @@
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" height="40" style="margin:4px"> 
   </a>
 
-### 📝 Latest Medium posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Linux Backdoors and Where to Find Them](https://fahmifj.medium.com/linux-backdoors-and-where-to-find-them-3b29888bdb98?source=rss-1354259e1c27------2)
-- [HackTheBox — Delivery Write-up](https://fahmifj.medium.com/hackthebox-delivery-write-up-c15d44dcc800?source=rss-1354259e1c27------2)
-- [Hack The Box — Ready 10.10.10.220 Writeup](https://fahmifj.medium.com/hack-the-box-ready-10-10-10-220-writeup-ff4293897b06?source=rss-1354259e1c27------2)
-- [Hack The Box — Time 10.10.10.214 Writeup](https://fahmifj.medium.com/hack-the-box-time-10-10-10-214-writeup-c36044827a13?source=rss-1354259e1c27------2)
-<!-- BLOG-POST-LIST:END -->
 
 ### 🔰 Stats
 <!-- GitHub Stats -->
