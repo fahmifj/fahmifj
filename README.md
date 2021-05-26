@@ -24,7 +24,6 @@
 ### 📬 Contacts
 
 - [Discord](https://discord.com/users/305634994938707969)
-
 - [fahmifj@pm.me](mailto:fahmifj@pm.me)
 
 ### 📝 My latest Medium posts
