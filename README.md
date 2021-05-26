@@ -74,7 +74,7 @@
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" height="40" style="margin:4px"> 
   </a>
 
-### 📝 Latest Medium Posts
+### 📝 Latest Medium posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Linux Backdoors and Where to Find Them](https://fahmifj.medium.com/linux-backdoors-and-where-to-find-them-3b29888bdb98?source=rss-1354259e1c27------2)
