@@ -29,10 +29,10 @@
 ### 📝 My latest Medium posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VulnHub: DC-6 Writeup](https://fahmifj.medium.com/vulnhub-dc-6-writeup-c53967e447c3?source=rss-1354259e1c27------2)
 - [Linux Backdoors and Where to Find Them](https://medium.com/geekculture/linux-backdoors-and-where-to-find-them-3b29888bdb98?source=rss-1354259e1c27------2)
 - [HackTheBox — Delivery Write-up](https://fahmifj.medium.com/hackthebox-delivery-write-up-c15d44dcc800?source=rss-1354259e1c27------2)
 - [Hack The Box — Ready 10.10.10.220 Writeup](https://fahmifj.medium.com/hack-the-box-ready-10-10-10-220-writeup-ff4293897b06?source=rss-1354259e1c27------2)
-- [Hack The Box — Time 10.10.10.214 Writeup](https://fahmifj.medium.com/hack-the-box-time-10-10-10-214-writeup-c36044827a13?source=rss-1354259e1c27------2)
 <!-- BLOG-POST-LIST:END -->
 
 
