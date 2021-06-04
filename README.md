@@ -26,7 +26,15 @@
 - [Discord](https://discord.com/users/305634994938707969)
 - [fahmifj@pm.me](mailto:fahmifj@pm.me)
 
-### 📝 My latest Medium posts
+### 📝 Latest posts
+
+#### Blog
+
+<!-- PERSONAL-BLOG:START -->
+<!-- PERSONAL-BLOG:END -->
+
+
+#### Medium
 
 <!-- BLOG-POST-LIST:START -->
 - [VulnHub: DC-6 Writeup](https://fahmifj.medium.com/vulnhub-dc-6-writeup-c53967e447c3?source=rss-1354259e1c27------2)
@@ -38,6 +46,7 @@
 
 ### 💻 I'm familiar with ...
 
+#### Systems
 
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" height="40" style="margin:4px"> 
@@ -55,6 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="azure" style="margin:4px"/> 
   </a>
 
+#### Language
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40" style="margin:4px" /> 
   </a> 
@@ -67,6 +77,7 @@
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" /> 
   </a>
 
+#### DevOps Tools
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" /> 
   </a>
@@ -79,6 +90,7 @@
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" height="40" style="margin:4px"> 
   </a>
 
+<br>
 
 ### 🔰 Stats
 <!-- GitHub Stats -->
