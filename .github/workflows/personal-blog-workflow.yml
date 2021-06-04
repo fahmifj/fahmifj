@@ -1,7 +1,7 @@
 name: Latest blog
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 jobs:
   update-readme-with-personal-blog:
