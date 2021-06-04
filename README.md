@@ -34,8 +34,6 @@
 - [VulnHub - DC-9](https://fahmifj.github.io/writeups/vulnhub/vh-dc9/)
 - [Setup VulnHub Machines](https://fahmifj.github.io/blog/setup-vulnhub-machines/)
 - [VulnHub - DC-6](https://fahmifj.github.io/writeups/vulnhub/vh-dc6/)
-- [Linux Backdoors and Where to Find Them](https://fahmifj.github.io/blog/linux-backdoors-and-where-to-find-them/)
-- [HackTheBox - Delivery](https://fahmifj.github.io/writeups/hackthebox/htb-delivery/)
 <!-- PERSONAL-BLOG:END -->
 
 
