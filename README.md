@@ -28,13 +28,13 @@
 
 ### 📝 Latest posts
 
-#### Blog
+#### HTB Writeups
 
-<!-- PERSONAL-BLOG:START -->
+<!-- HTB:START -->
 - [VulnHub - DC-9](https://fahmifj.github.io/writeups/vulnhub/vh-dc9/)
 - [Setup VulnHub Machines](https://fahmifj.github.io/blog/setup-vulnhub-machines/)
 - [VulnHub - DC-6](https://fahmifj.github.io/writeups/vulnhub/vh-dc6/)
-<!-- PERSONAL-BLOG:END -->
+<!-- HTB:END -->
 
 
 #### Medium

@@ -1,0 +1,17 @@
+name: Latest HTB writeups
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  update-htb-post:
+    name: Update latest HTB writeups
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "HTB"
+          commit_message: "Update HTB writeups posts"
+          max_post_count: "4"
+          feed_list: "https://fahmifj.github.io/writeups/hackthebox/index.xml"
