@@ -31,9 +31,10 @@
 #### HTB Writeups
 
 <!-- HTB:START -->
-- [VulnHub - DC-9](https://fahmifj.github.io/writeups/vulnhub/vh-dc9/)
-- [Setup VulnHub Machines](https://fahmifj.github.io/blog/setup-vulnhub-machines/)
-- [VulnHub - DC-6](https://fahmifj.github.io/writeups/vulnhub/vh-dc6/)
+- [HackTheBox - Delivery](https://fahmifj.github.io/writeups/hackthebox/htb-delivery/)
+- [HackTheBox - Ready](https://fahmifj.github.io/writeups/hackthebox/htb-ready/)
+- [HackTheBox - Time](https://fahmifj.github.io/writeups/hackthebox/htb-time/)
+- [HackTheBox - Doctor](https://fahmifj.github.io/writeups/hackthebox/htb-doctor/)
 <!-- HTB:END -->
 
 
