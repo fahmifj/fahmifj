@@ -31,7 +31,7 @@
 #### HTB Writeups
 
 <!-- HTB:START -->
-- [HackTheBox - Cereal](https://fahmifj.github.io/writeups/hackthebox/htb-cereal/)
+- [HackTheBox - Cereal (User only)](https://fahmifj.github.io/writeups/hackthebox/htb-cereal/)
 - [HackTheBox - Delivery](https://fahmifj.github.io/writeups/hackthebox/htb-delivery/)
 - [HackTheBox - Ready](https://fahmifj.github.io/writeups/hackthebox/htb-ready/)
 - [HackTheBox - Time](https://fahmifj.github.io/writeups/hackthebox/htb-time/)
