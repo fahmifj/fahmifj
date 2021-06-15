@@ -31,10 +31,10 @@
 #### HTB Writeups
 
 <!-- HTB:START -->
+- [HackTheBox - Tenet](https://fahmifj.github.io/writeups/hackthebox/htb-tenet/)
 - [HackTheBox - ScriptKiddie](https://fahmifj.github.io/writeups/hackthebox/htb-scriptkiddie/)
 - [HackTheBox - Cereal (User only)](https://fahmifj.github.io/writeups/hackthebox/htb-cereal/)
 - [HackTheBox - Delivery](https://fahmifj.github.io/writeups/hackthebox/htb-delivery/)
-- [HackTheBox - Ready](https://fahmifj.github.io/writeups/hackthebox/htb-ready/)
 <!-- HTB:END -->
 
 
