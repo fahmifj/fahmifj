@@ -31,6 +31,10 @@
 #### Personal blog
 
 <!-- BLOG:START -->
+- [HackTheBox - Tenet](https://fahmifj.github.io/writeups/hackthebox/htb-tenet/)
+- [Install jarsigner without Java SDK in Kali Linux](https://fahmifj.github.io/blog/install-jar-signer-without-java-sdk/)
+- [HackTheBox - ScriptKiddie](https://fahmifj.github.io/writeups/hackthebox/htb-scriptkiddie/)
+- [VulnHub - Alfa](https://fahmifj.github.io/writeups/vulnhub/vh-alfa/)
 <!-- BLOG:END -->
 
 
