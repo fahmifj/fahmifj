@@ -13,5 +13,5 @@ jobs:
         with:
           comment_tag_name: "HTB"
           commit_message: "Update HTB writeups posts"
-          max_post_count: "4"
+          max_post_count: "2"
           feed_list: "https://fahmifj.github.io/writeups/hackthebox/index.xml"

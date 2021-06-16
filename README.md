@@ -28,14 +28,14 @@
 
 ### 📝 Latest posts
 
-#### HTB Writeups
+#### Personal blog
 
 <!-- HTB:START -->
 - [HackTheBox - Tenet](https://fahmifj.github.io/writeups/hackthebox/htb-tenet/)
 - [HackTheBox - ScriptKiddie](https://fahmifj.github.io/writeups/hackthebox/htb-scriptkiddie/)
-- [HackTheBox - Cereal (User only)](https://fahmifj.github.io/writeups/hackthebox/htb-cereal/)
-- [HackTheBox - Delivery](https://fahmifj.github.io/writeups/hackthebox/htb-delivery/)
 <!-- HTB:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 
 #### Medium

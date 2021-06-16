@@ -1,0 +1,17 @@
+name: Latest blog posts
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  update-blog-post:
+    name: Update latest blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "blog"
+          commit_message: "Update blog posts"
+          max_post_count: "2"
+          feed_list: "https://fahmifj.github.io/blog/index.xml"
