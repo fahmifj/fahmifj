@@ -35,6 +35,8 @@
 - [HackTheBox - ScriptKiddie](https://fahmifj.github.io/writeups/hackthebox/htb-scriptkiddie/)
 <!-- HTB:END -->
 <!-- BLOG:START -->
+- [Install jarsigner without Java SDK in Kali Linux](https://fahmifj.github.io/blog/install-jar-signer-without-java-sdk/)
+- [Hugo Setup and Deployment](https://fahmifj.github.io/blog/hugo-setup-and-deployment/)
 <!-- BLOG:END -->
 
 
