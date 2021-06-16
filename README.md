@@ -24,19 +24,13 @@
 ### 📬 Contacts
 
 - [Discord](https://discord.com/users/305634994938707969)
-- [fahmifj@pm.me](mailto:fahmifj@pm.me)
+- fahmifj@pm.me
 
 ### 📝 Latest posts
 
 #### Personal blog
 
-<!-- HTB:START -->
-- [HackTheBox - Tenet](https://fahmifj.github.io/writeups/hackthebox/htb-tenet/)
-- [HackTheBox - ScriptKiddie](https://fahmifj.github.io/writeups/hackthebox/htb-scriptkiddie/)
-<!-- HTB:END -->
 <!-- BLOG:START -->
-- [Install jarsigner without Java SDK in Kali Linux](https://fahmifj.github.io/blog/install-jar-signer-without-java-sdk/)
-- [Hugo Setup and Deployment](https://fahmifj.github.io/blog/hugo-setup-and-deployment/)
 <!-- BLOG:END -->
 
 
