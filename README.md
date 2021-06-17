@@ -31,10 +31,10 @@
 #### Personal blog
 
 <!-- BLOG:START -->
+- [Building Virtual Home Lab for Pentesting](https://fahmifj.github.io/blog/building-virtual-home-lab-for-pentesting/)
 - [Linux Forensics Command Cheat Sheet](https://fahmifj.github.io/blog/linux-forensics-command-cheat-sheet/)
 - [HackTheBox - Tenet](https://fahmifj.github.io/writeups/hackthebox/htb-tenet/)
 - [Install jarsigner without Java SDK in Kali Linux](https://fahmifj.github.io/blog/install-jar-signer-without-java-sdk/)
-- [HackTheBox - ScriptKiddie](https://fahmifj.github.io/writeups/hackthebox/htb-scriptkiddie/)
 <!-- BLOG:END -->
 
 
