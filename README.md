@@ -31,10 +31,10 @@
 #### Personal blog
 
 <!-- BLOG:START -->
+- [HackTheBox - Spectra](https://fahmifj.github.io/writeups/hackthebox/htb-spectra/)
 - [TryHackMe - Basic Pentesting](https://fahmifj.github.io/writeups/tryhackme/thm-basic-pentesting/)
 - [Building Virtual Home Lab for Pentesting](https://fahmifj.github.io/blog/building-virtual-home-lab-for-pentesting/)
 - [Linux Forensics Command Cheat Sheet](https://fahmifj.github.io/blog/linux-forensics-command-cheat-sheet/)
-- [HackTheBox - Tenet](https://fahmifj.github.io/writeups/hackthebox/htb-tenet/)
 <!-- BLOG:END -->
 
 
