@@ -31,10 +31,10 @@
 #### Personal blog
 
 <!-- BLOG:START -->
+- [Setup a Samba Server in Azure and Make It Accessible Over Internet](https://fahmifj.github.io/blog/setup-a-samba-server-in-azure-and-make-it-accessible-over-internet/)
 - [TryHackMe - rootme](https://fahmifj.github.io/writeups/tryhackme/thm-rootme/)
 - [HackTheBox - Spectra](https://fahmifj.github.io/writeups/hackthebox/htb-spectra/)
 - [TryHackMe - Basic Pentesting](https://fahmifj.github.io/writeups/tryhackme/thm-basic-pentesting/)
-- [Building Virtual Home Lab for Pentesting](https://fahmifj.github.io/blog/building-virtual-home-lab-for-pentesting/)
 <!-- BLOG:END -->
 
 
