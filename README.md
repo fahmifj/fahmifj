@@ -41,10 +41,10 @@
 #### Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [My Kali Linux Setup for Playing HackTheBox](https://fahmifj.medium.com/my-kali-linux-setup-for-playing-hackthebox-82b9d38f4265?source=rss-1354259e1c27------2)
 - [Hugo Setup and Deployment](https://fahmifj.medium.com/hugo-setup-and-deployment-490e8dbd66b3?source=rss-1354259e1c27------2)
 - [VulnHub: DC-9 Writeup](https://fahmifj.medium.com/vulnhub-dc-9-writeup-109007afdcd6?source=rss-1354259e1c27------2)
 - [Setup VulnHub Machines](https://fahmifj.medium.com/setup-vulnhub-machines-74d7dddef596?source=rss-1354259e1c27------2)
-- [VulnHub: DC-6 Writeup](https://fahmifj.medium.com/vulnhub-dc-6-writeup-c53967e447c3?source=rss-1354259e1c27------2)
 <!-- BLOG-POST-LIST:END -->
 
 
