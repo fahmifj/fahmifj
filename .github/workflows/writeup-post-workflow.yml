@@ -1,11 +1,11 @@
-name: Latest blog posts
+name: Latest writeups
 on:
   schedule:
     - cron: "0 15 * * *"
   workflow_dispatch:
 jobs:
   update-blog-post:
-    name: Update latest blog
+    name: Update latest writeups
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
