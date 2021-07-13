@@ -28,24 +28,16 @@
 
 ### 📝 Latest posts
 
-#### Personal blog
+#### Blog
 
 <!-- BLOG:START -->
-- [HackTheBox - Atom](https://fahmifj.github.io/writeups/hackthebox/htb-atom/)
-- [My Kali Linux Setup for Playing HackTheBox](https://fahmifj.github.io/blog/my-kali-linux-setup-for-playing-hackthebox/)
-- [Setup a Samba Server in Azure and Make It Accessible Over Internet](https://fahmifj.github.io/blog/setup-a-samba-server-in-azure-and-make-it-accessible-over-internet/)
-- [TryHackMe - rootme](https://fahmifj.github.io/writeups/tryhackme/thm-rootme/)
 <!-- BLOG:END -->
 
 
-#### Medium
+#### Write-ups
 
-<!-- BLOG-POST-LIST:START -->
-- [My Kali Linux Setup for Playing HackTheBox](https://fahmifj.medium.com/my-kali-linux-setup-for-playing-hackthebox-82b9d38f4265?source=rss-1354259e1c27------2)
-- [Hugo Setup and Deployment](https://fahmifj.medium.com/hugo-setup-and-deployment-490e8dbd66b3?source=rss-1354259e1c27------2)
-- [VulnHub: DC-9 Writeup](https://fahmifj.medium.com/vulnhub-dc-9-writeup-109007afdcd6?source=rss-1354259e1c27------2)
-- [Setup VulnHub Machines](https://fahmifj.medium.com/setup-vulnhub-machines-74d7dddef596?source=rss-1354259e1c27------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-WR:START -->
+<!-- BLOG-WR:END -->
 
 
 ### 💻 I'm familiar with ...
