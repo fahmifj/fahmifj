@@ -40,9 +40,9 @@
 #### Write-ups
 
 <!-- BLOG-WR:START -->
+- [HackTheBox - Armageddon](https://fahmifj.github.io/writeups/hackthebox/htb-armageddon/)
 - [HackTheBox - Active](https://fahmifj.github.io/writeups/hackthebox/htb-active/)
 - [HackTheBox - Shocker](https://fahmifj.github.io/writeups/hackthebox/htb-shocker/)
-- [HackTheBox - Atom](https://fahmifj.github.io/writeups/hackthebox/htb-atom/)
 <!-- BLOG-WR:END -->
 
 
