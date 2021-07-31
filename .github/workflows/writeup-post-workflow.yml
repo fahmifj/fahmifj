@@ -13,5 +13,5 @@ jobs:
         with:
           comment_tag_name: "BLOG-WR"
           commit_message: "Update writeups"
-          max_post_count: "3"
+          max_post_count: "4"
           feed_list: "https://fahmifj.github.io/categories/writeup/index.xml"
