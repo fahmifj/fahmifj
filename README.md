@@ -11,10 +11,6 @@
 ^--^---'--^    `-'`---^-^--^--^---'--'  友人F
 ```
 
-### 🔭 Currently working on
-
-- 🐱‍💻 [Pwning TJNull's OSCP-like machines](https://fahmifj.github.io/tags/oscp-like/)
-
 ### 🎯 Interests
 
 - 🐱‍💻 Ethical Hacking/Penetration Testing
