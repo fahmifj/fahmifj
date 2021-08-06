@@ -37,10 +37,10 @@
 #### Write-ups
 
 <!-- BLOG-WR:START -->
+- [HackTheBox - Writeup](https://fahmifj.github.io/writeups/hackthebox/htb-writeup/)
 - [HackTheBox - Heist](https://fahmifj.github.io/writeups/hackthebox/htb-heist/)
 - [HackTheBox - Armageddon](https://fahmifj.github.io/writeups/hackthebox/htb-armageddon/)
 - [HackTheBox - Active](https://fahmifj.github.io/writeups/hackthebox/htb-active/)
-- [HackTheBox - Shocker](https://fahmifj.github.io/writeups/hackthebox/htb-shocker/)
 <!-- BLOG-WR:END -->
 
 
