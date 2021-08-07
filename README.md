@@ -37,10 +37,10 @@
 #### Write-ups
 
 <!-- BLOG-WR:START -->
+- [HackTheBox - TheNotebook](https://fahmifj.github.io/writeups/hackthebox/htb-thenotebook/)
+- [HackTheBox - Ophiuchi](https://fahmifj.github.io/writeups/hackthebox/htb-ophiuchi/)
 - [HackTheBox - Traverxec](https://fahmifj.github.io/writeups/hackthebox/htb-traverxec/)
 - [HackTheBox - Writeup](https://fahmifj.github.io/writeups/hackthebox/htb-writeup/)
-- [HackTheBox - Heist](https://fahmifj.github.io/writeups/hackthebox/htb-heist/)
-- [HackTheBox - Armageddon](https://fahmifj.github.io/writeups/hackthebox/htb-armageddon/)
 <!-- BLOG-WR:END -->
 
 
