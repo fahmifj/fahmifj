@@ -37,10 +37,10 @@
 #### Write-ups
 
 <!-- BLOG-WR:START -->
+- [HackTheBox - Love](https://fahmifj.github.io/writeups/hackthebox/htb-love/)
 - [HackTheBox - TheNotebook](https://fahmifj.github.io/writeups/hackthebox/htb-thenotebook/)
 - [HackTheBox - Ophiuchi](https://fahmifj.github.io/writeups/hackthebox/htb-ophiuchi/)
 - [HackTheBox - Traverxec](https://fahmifj.github.io/writeups/hackthebox/htb-traverxec/)
-- [HackTheBox - Writeup](https://fahmifj.github.io/writeups/hackthebox/htb-writeup/)
 <!-- BLOG-WR:END -->
 
 
