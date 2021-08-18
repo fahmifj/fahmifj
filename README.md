@@ -9,17 +9,20 @@
 ```
 
 ### 🎯 Interests
+<br>
 
 - 🐱‍💻 Ethical Hacking/Penetration Testing
 - 🐱‍💻 Web Application & Security
 - 🤖 DevOps things (CI/CD, Containerization, Virtualization)
 
 ### 📬 Contacts
+<br>
 
 - [Discord](https://discord.com/users/305634994938707969)
-- fahmifj@pm.me
+- `fahmifj@pm.me`
 
 ### 📝 Latest posts
+<br>
 
 #### Blog
 
@@ -75,6 +78,7 @@
   </a>
 
 #### DevOps Tools
+
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" /> 
   </a>
@@ -91,11 +95,11 @@
 
 ### 🔰 Stats
 <!-- GitHub Stats -->
-
+<br>
 <a href="https://github.com/fahmifj">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&hide=html,css,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&hide=html,css,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact" height="200px" />
 </a>
 
 <a href="https://github.com/fahmifj">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fahmi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fahmi's GitHub Stats" height="200px"/>
 </a>
