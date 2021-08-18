@@ -9,7 +9,6 @@
 ```
 
 ### 🎯 Interests
-<br>
 
 - 🐱‍💻 Ethical Hacking/Penetration Testing
 - 🐱‍💻 Web Application & Security
@@ -22,7 +21,6 @@
 - `fahmifj@pm.me`
 
 ### 📝 Latest posts
-<br>
 
 #### Blog
 
@@ -97,9 +95,9 @@
 <!-- GitHub Stats -->
 <br>
 <a href="https://github.com/fahmifj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&hide=html,css,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact" height="200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&hide=html,css,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact" width="425px" height="200px" />
 </a>
 
 <a href="https://github.com/fahmifj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fahmi's GitHub Stats" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=false&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fahmi's GitHub Stats" width="425px" height="200px"/>
 </a>
