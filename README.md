@@ -8,6 +8,8 @@
  */
 ```
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🎯 Interests
 
 -  Ethical Hacking/Penetration Testing
@@ -15,11 +17,9 @@
 -  DevOps things (CI/CD, Containerization, Virtualization)
 
 ### 📬 Contacts
-<br>
 
 - [Discord](https://discord.com/users/305634994938707969)
 - `fahmifj@pm.me`
-
 
 ### 💻 Tech Stack
 
