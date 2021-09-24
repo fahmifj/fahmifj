@@ -52,10 +52,10 @@
 #### Write-ups
 
 <!-- BLOG-WR:START -->
+- [HackTheBox - Validation](https://fahmifj.github.io/writeups/hackthebox/htb-validation/)
 - [HackTheBox - Schooled](https://fahmifj.github.io/writeups/hackthebox/htb-schooled/)
 - [HackTheBox - Gobox](https://fahmifj.github.io/writeups/hackthebox/htb-gobox/)
 - [HackTheBox - Knife](https://fahmifj.github.io/writeups/hackthebox/htb-knife/)
-- [HackTheBox - Love](https://fahmifj.github.io/writeups/hackthebox/htb-love/)
 <!-- BLOG-WR:END -->
 
 
