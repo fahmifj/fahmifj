@@ -42,21 +42,13 @@
 #### Blog
 
 <!-- BLOG:START -->
-- [Get rid of the Gtk-WARNING on gedit](https://fahmifj.github.io/blog/get-rid-gtk-warning-on-gedit/)
-- [Windows Services: Start a Service During Its Creation](https://fahmifj.github.io/blog/start-a-windows-service-during-its-creation/)
-- [Windows 10 Troubleshoot: Permissions](https://fahmifj.github.io/blog/windows-10-troubleshoot-permissions/)
-- [Play with PrintNightmare using HackTheBox machines](https://fahmifj.github.io/blog/play-with-printnightmare/)
 <!-- BLOG:END -->
 
 
 #### Write-ups
 
-<!-- BLOG-WR:START -->
-- [HackTheBox - Validation](https://fahmifj.github.io/writeups/hackthebox/htb-validation/)
-- [HackTheBox - Schooled](https://fahmifj.github.io/writeups/hackthebox/htb-schooled/)
-- [HackTheBox - Gobox](https://fahmifj.github.io/writeups/hackthebox/htb-gobox/)
-- [HackTheBox - Knife](https://fahmifj.github.io/writeups/hackthebox/htb-knife/)
-<!-- BLOG-WR:END -->
+<!-- BLOG-CTF:START -->
+<!-- BLOG-CTF:END -->
 
 
 ### 🔰 Stats
