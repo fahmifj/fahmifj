@@ -42,6 +42,10 @@
 #### Blog
 
 <!-- BLOG:START -->
+- [Get rid of the Gtk-WARNING on gedit](https://fahmifj.github.io/blog/get-rid-gtk-warning-on-gedit/)
+- [Windows Services: Start a Service During Its Creation](https://fahmifj.github.io/blog/start-a-windows-service-during-its-creation/)
+- [Windows 10 Troubleshoot: Permissions](https://fahmifj.github.io/blog/windows-10-troubleshoot-permissions/)
+- [Play with PrintNightmare using HackTheBox machines](https://fahmifj.github.io/blog/play-with-printnightmare/)
 <!-- BLOG:END -->
 
 
