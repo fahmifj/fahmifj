@@ -48,6 +48,10 @@
 #### Write-ups
 
 <!-- BLOG-CTF:START -->
+- [Hacktivitycon 2021 CTF - Miscellaneous](https://fahmifj.github.io/ctf/hacktivitycon-2021-misc/)
+- [HackTheBox - Validation](https://fahmifj.github.io/hackthebox/validation/)
+- [HackTheBox - Schooled](https://fahmifj.github.io/hackthebox/schooled/)
+- [HackTheBox - Gobox](https://fahmifj.github.io/hackthebox/gobox/)
 <!-- BLOG-CTF:END -->
 
 
