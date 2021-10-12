@@ -52,8 +52,8 @@
 #### Write-ups
 
 <!-- BLOG-CTF:START -->
-- [H@cktivitycon 2021 CTF - Web](https://fahmifj.github.io/ctf/hacktivitycon-2021-web/)
-- [H@cktivitycon 2021 CTF - Miscellaneous](https://fahmifj.github.io/ctf/hacktivitycon-2021-misc/)
+- [H@cktivitycon 2021 - Web](https://fahmifj.github.io/ctf/hacktivitycon-2021-web/)
+- [H@cktivitycon 2021 - Misc](https://fahmifj.github.io/ctf/hacktivitycon-2021-misc/)
 - [HackTheBox - Validation](https://fahmifj.github.io/hackthebox/validation/)
 - [HackTheBox - Schooled](https://fahmifj.github.io/hackthebox/schooled/)
 <!-- BLOG-CTF:END -->
