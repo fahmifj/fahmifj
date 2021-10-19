@@ -52,10 +52,10 @@
 #### Write-ups
 
 <!-- BLOG-CTF:START -->
+- [HackTheBox - Dynstr](https://fahmifj.github.io/hackthebox/dynstr/)
 - [HackTheBox - Cap](https://fahmifj.github.io/hackthebox/cap/)
 - [HackTheBox - Pit](https://fahmifj.github.io/hackthebox/pit/)
 - [H@cktivitycon 2021 - Web](https://fahmifj.github.io/ctf/hacktivitycon-2021-web/)
-- [H@cktivitycon 2021 - Misc](https://fahmifj.github.io/ctf/hacktivitycon-2021-misc/)
 <!-- BLOG-CTF:END -->
 
 
