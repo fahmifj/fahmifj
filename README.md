@@ -65,10 +65,10 @@
 <p align="center">
 
 <a href="https://github.com/fahmifj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&hide=html,css,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact&langs_count=6"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmifj&hide=html,css,roff&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact&langs_count=6"/>
 </a>
 
 <a href="https://github.com/fahmifj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=false&line_height=25&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fahmi's GitHub Stats">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fahmifj&show_icons=false&line_height=25&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Fahmi's GitHub Stats">
 </a>
 <p>
