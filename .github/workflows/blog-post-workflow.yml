@@ -14,4 +14,4 @@ jobs:
           comment_tag_name: "BLOG"
           commit_message: "Update Blog posts"
           max_post_count: "4"
-          feed_list: "https://fahmifj.github.io/categories/blog/index.xml"
+          feed_list: "https://fahmifj.github.io/blog/index.xml"
