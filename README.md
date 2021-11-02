@@ -42,10 +42,10 @@
 #### Blog
 
 <!-- BLOG:START -->
+- [Hugo Site Deployment With Github Actions](https://fahmifj.github.io/blog/hugo-deployment-with-github-actions/)
 - [Revamp Blog](https://fahmifj.github.io/blog/revamp-blog/)
 - [Get rid of the Gtk-WARNING on gedit](https://fahmifj.github.io/blog/get-rid-gtk-warning-on-gedit/)
 - [Windows Services: Start a Service During Its Creation](https://fahmifj.github.io/blog/start-a-windows-service-during-its-creation/)
-- [Me vs Windows Permissions](https://fahmifj.github.io/blog/me-vs-windows-permissions/)
 <!-- BLOG:END -->
 
 
