@@ -42,10 +42,10 @@
 #### Blog
 
 <!-- BLOG:START -->
+- [DNS, DNS over HTTPS dan SSH SOCKS Proxy [ID]](https://fahmifj.github.io/blog/dns-over-https-and-ssh-socks-proxy/)
 - [Hugo Site Deployment With Github Actions](https://fahmifj.github.io/blog/hugo-deployment-with-github-actions/)
 - [Revamp Blog](https://fahmifj.github.io/blog/revamp-blog/)
 - [Get rid of the Gtk-WARNING on gedit](https://fahmifj.github.io/blog/get-rid-gtk-warning-on-gedit/)
-- [Windows Services: Start a Service During Its Creation](https://fahmifj.github.io/blog/start-a-windows-service-during-its-creation/)
 <!-- BLOG:END -->
 
 
