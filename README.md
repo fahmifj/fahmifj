@@ -42,10 +42,10 @@
 #### Blog
 
 <!-- BLOG:START -->
+- [Tplmap Install](https://fahmifj.github.io/blog/tplmap-install/)
 - [Hosts file, DNS over HTTPS dan SSH SOCKS Proxy [ID]](https://fahmifj.github.io/blog/hosts-file-dns-over-https-and-ssh-socks-proxy/)
 - [Hugo Site Deployment With Github Actions](https://fahmifj.github.io/blog/hugo-deployment-with-github-actions/)
 - [Revamp Blog](https://fahmifj.github.io/blog/revamp-blog/)
-- [Get rid of the Gtk-WARNING on gedit](https://fahmifj.github.io/blog/get-rid-gtk-warning-on-gedit/)
 <!-- BLOG:END -->
 
 
