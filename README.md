@@ -52,10 +52,10 @@
 #### Write-ups
 
 <!-- BLOG-CTF:START -->
+- [HackTheBox - Nunchuks](https://fahmifj.github.io/hackthebox/nunchuks/)
 - [HackTheBox - Explore](https://fahmifj.github.io/hackthebox/explore/)
 - [HackTheBox - Return](https://fahmifj.github.io/hackthebox/return/)
 - [HackTheBox - Antique](https://fahmifj.github.io/hackthebox/antique/)
-- [HackTheBox - Dynstr](https://fahmifj.github.io/hackthebox/dynstr/)
 <!-- BLOG-CTF:END -->
 
 
