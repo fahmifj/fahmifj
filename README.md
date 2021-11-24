@@ -52,8 +52,8 @@
 #### Write-ups
 
 <!-- BLOG-CTF:START -->
-- [HackTheBox - Bounty Hunter](https://fahmifj.github.io/hackthebox/bounty-hunter/)
-- [HackTheBox - Nunchuks](https://fahmifj.github.io/hackthebox/nunchuks/)
+- [HackTheBox - BountyHunter](https://fahmifj.github.io/hackthebox/bountyhunter/)
+- [HackTheBox - Nunchucks](https://fahmifj.github.io/hackthebox/nunchucks/)
 - [HackTheBox - Explore](https://fahmifj.github.io/hackthebox/explore/)
 - [HackTheBox - Return](https://fahmifj.github.io/hackthebox/return/)
 <!-- BLOG-CTF:END -->
