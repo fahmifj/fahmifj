@@ -14,12 +14,13 @@
 
 -  Ethical Hacking/Penetration Testing
 -  Web Application & Security
+-  System Administration
 -  DevOps things (CI/CD, Containerization, Virtualization)
 
 ### 📬 Contacts
 
+- `fahmifj@pm.me` (preferred)
 - [Discord](https://discord.com/users/305634994938707969)
-- `fahmifj@pm.me`
 
 ### 💻 Tech Stack
 
