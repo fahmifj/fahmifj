@@ -12,10 +12,10 @@
 
 ### 🎯 Interests
 
--  Ethical Hacking/Penetration Testing
+-  Ethical Hacking
+-  Network & System Administration
+-  DevOps things
 -  Web Application & Security
--  System Administration
--  DevOps things (CI/CD, Containerization, Virtualization)
 
 ### 📬 Contacts
 
@@ -24,19 +24,19 @@
 
 ### 💻 Tech Stack
 
-![Windows](https://img.shields.io/badge/-Windows-1A2B34?style=flat-square&logo=Windows)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-1A2B34?style=flat-square&logo=Ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-1A2B34?style=flat-square&logo=Windows)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-1A2B34?style=flat-square&logo=Linux)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-1A2B34?style=flat-square&logo=microsoft-azure)&nbsp;
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-1A2B34?style=flat-square&logo=virtualbox)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-1A2B34?style=flat-square&logo=Docker)&nbsp;
-![Go](https://img.shields.io/badge/-Go-1A2B34?style=flat-square&logo=go)&nbsp;
+![Bash](https://img.shields.io/badge/Scripting-1A2B34?style=flat-square&logo=gnu-bash)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-1A2B34?style=flat-square&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-1A2B34?style=flat-square&logo=javascript)&nbsp;
+![Go](https://img.shields.io/badge/-Go-1A2B34?style=flat-square&logo=go)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-1A2B34?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1A2B34?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1A2B34?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-1A2B34?style=flat-square&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1A2B34?style=flat-square&logo=git)&nbsp;
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1A2B34?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📝 Latest posts
 
