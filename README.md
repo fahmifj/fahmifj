@@ -43,9 +43,9 @@
 #### Blog
 
 <!-- BLOG:START -->
-- [EHLO world pt.2: I&#39;m back!](https://fahmifj.github.io/blog/i-am-back/)
+- [Hello world pt.2: I&#39;m back!](https://fahmifj.github.io/blog/hello-world-pt2/)
 - [Tplmap Install](https://fahmifj.github.io/blog/tplmap-install/)
-- [Hosts file, DNS over HTTPS dan SSH SOCKS Proxy [ID]](https://fahmifj.github.io/blog/hosts-file-dns-over-https-and-ssh-socks-proxy/)
+- [Hosts file, DNS over HTTPS dan SSH SOCKS Proxy](https://fahmifj.github.io/blog/hosts-file-dns-over-https-and-ssh-socks-proxy/)
 - [Hugo Site Deployment With Github Actions](https://fahmifj.github.io/blog/hugo-deployment-with-github-actions/)
 <!-- BLOG:END -->
 
