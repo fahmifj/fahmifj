@@ -53,10 +53,10 @@
 #### Write-ups
 
 <!-- BLOG-CTF:START -->
+- [HackTheBox - Driver](https://fahmifj.github.io/hackthebox/driver/)
 - [HackTheBox - Intelligence](https://fahmifj.github.io/hackthebox/intelligence/)
 - [HackTheBox - BountyHunter](https://fahmifj.github.io/hackthebox/bountyhunter/)
 - [HackTheBox - Nunchucks](https://fahmifj.github.io/hackthebox/nunchucks/)
-- [HackTheBox - Explore](https://fahmifj.github.io/hackthebox/explore/)
 <!-- BLOG-CTF:END -->
 
 
