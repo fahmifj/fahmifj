@@ -43,10 +43,10 @@
 #### Blog
 
 <!-- BLOG:START -->
+- [2024 So Far](https://fahmifj.github.io/blog/2024-so-far/)
 - [Hello world pt.2: I&#39;m back!](https://fahmifj.github.io/blog/hello-world-pt2/)
 - [Tplmap Install](https://fahmifj.github.io/blog/tplmap-install/)
 - [Hosts file, DNS over HTTPS dan SSH SOCKS Proxy](https://fahmifj.github.io/blog/methods-to-bypass-web-filter/)
-- [Deploy a Hugo site with Github Actions](https://fahmifj.github.io/blog/hugo-github-actions/)
 <!-- BLOG:END -->
 
 
