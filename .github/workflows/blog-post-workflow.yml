@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG"
-          commit_message: "Update Blog posts"
+          comment_tag_name: "ARTICLES"
+          commit_message: "Update articles"
           max_post_count: "4"
-          feed_list: "https://fahmifj.github.io/blog/index.xml"
+          feed_list: "https://fahmifj.github.io/articles/index.xml"
