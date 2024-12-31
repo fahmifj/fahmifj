@@ -43,10 +43,10 @@
 #### Blog
 
 <!-- ARTICLES:START -->
-- [2024 So Far](https://fahmifj.github.io/blog/2024-so-far/)
-- [Hello world pt.2: I&#39;m back!](https://fahmifj.github.io/blog/hello-world-pt2/)
-- [Revamping my blog](https://fahmifj.github.io/blog/revamping-my-blog/)
-- [Hello world](https://fahmifj.github.io/blog/hello-world/)
+- [Tplmap Install](https://fahmifj.github.io/articles/tplmap-install/)
+- [A Personal Take on Bypassing ISP Blocks](https://fahmifj.github.io/articles/unblock-isp-blocked-sites/)
+- [Deploy a Hugo site with Github Actions](https://fahmifj.github.io/articles/hugo-github-actions/)
+- [Get rid of the Gtk-WARNING on gedit](https://fahmifj.github.io/articles/hide-gtk-warning-gedit/)
 <!-- ARTICLES:END -->
 
 
