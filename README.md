@@ -42,12 +42,12 @@
 
 #### Blog
 
-<!-- BLOG:START -->
+<!-- ARTICLES:START -->
 - [2024 So Far](https://fahmifj.github.io/blog/2024-so-far/)
 - [Hello world pt.2: I&#39;m back!](https://fahmifj.github.io/blog/hello-world-pt2/)
 - [Revamping my blog](https://fahmifj.github.io/blog/revamping-my-blog/)
 - [Hello world](https://fahmifj.github.io/blog/hello-world/)
-<!-- BLOG:END -->
+<!-- ARTICLES:END -->
 
 
 #### Write-ups
