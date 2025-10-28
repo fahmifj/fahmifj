@@ -43,7 +43,7 @@
 #### Blog
 
 <!-- ARTICLES:START -->
-- [Deploy PNETLab on Google Cloud](https://fahmifj.github.io/articles/deploy-pnetlab-on-google-cloud/)
+- [Deploying PNETLab on Google Cloud](https://fahmifj.github.io/articles/deploy-pnetlab-on-google-cloud/)
 - [Running GNS3 server on Apple M2 with Orbstack](https://fahmifj.github.io/articles/running-gns3-on-apple-m2-orbstack/)
 - [Tplmap Install](https://fahmifj.github.io/articles/tplmap-install/)
 - [A Personal Take on Bypassing ISP Blocks](https://fahmifj.github.io/articles/unblock-isp-blocked-sites/)
