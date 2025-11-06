@@ -20,7 +20,6 @@
 ### 📬 Contacts
 
 - `fahmifj@pm.me` (preferred)
-- [Discord](https://discord.com/users/305634994938707969)
 
 ### 💻 Tech Stack
 
