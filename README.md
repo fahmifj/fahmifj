@@ -52,10 +52,10 @@
 #### Write-ups
 
 <!-- BLOG-CTF:START -->
-- [HackTheBox - Forge](https://fahmifj.github.io/hackthebox/forge/)
-- [HackTheBox - Secret](https://fahmifj.github.io/hackthebox/secret/)
-- [HackTheBox - Driver](https://fahmifj.github.io/hackthebox/driver/)
-- [HackTheBox - Intelligence](https://fahmifj.github.io/hackthebox/intelligence/)
+- [HackTheBox - Forge](https://fahmifj.github.io/ctf/hackthebox/forge/)
+- [HackTheBox - Secret](https://fahmifj.github.io/ctf/hackthebox/secret/)
+- [HackTheBox - Driver](https://fahmifj.github.io/ctf/hackthebox/driver/)
+- [HackTheBox - Intelligence](https://fahmifj.github.io/ctf/hackthebox/intelligence/)
 <!-- BLOG-CTF:END -->
 
 
