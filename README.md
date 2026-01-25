@@ -42,10 +42,10 @@
 #### Blog
 
 <!-- BLOG:START -->
-- [Deploying PNETLab on Google Cloud](https://fahmifj.github.io/articles/deploy-pnetlab-on-gcp/)
-- [How to Run GNS3 Server on Apple M2 Using OrbStack](https://fahmifj.github.io/articles/running-gns3-on-apple-m2-orbstack/)
-- [Bypass Blokir ISP: DoH, Hosts File, dan SSH Socks Proxy](https://fahmifj.github.io/articles/bypass-blokir-isp-tanpa-vpn/)
-- [Deploy a Hugo Site with Github Actions](https://fahmifj.github.io/articles/hugo-github-actions/)
+- [Using Cloudflare Workers to Mirror My Blog](https://fahmifj.github.io/blog/mirror-website-using-cloudflare-workers/)
+- [Revamping My Blog Part II: Search Nav, ScrollSpy, SPA in Hugo](https://fahmifj.github.io/blog/revamping-my-blog-part-2/)
+- [Deploying PNETLab on Google Cloud](https://fahmifj.github.io/blog/deploy-pnetlab-on-gcp/)
+- [Exposing an SMB Server to the Internet in Azure](https://fahmifj.github.io/blog/exposing-smb-server-to-internet-in-azure/)
 <!-- BLOG:END -->
 
 
