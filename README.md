@@ -41,12 +41,12 @@
 
 #### Blog
 
-<!-- ARTICLES:START -->
+<!-- BLOG:START -->
 - [Deploying PNETLab on Google Cloud](https://fahmifj.github.io/articles/deploy-pnetlab-on-gcp/)
 - [How to Run GNS3 Server on Apple M2 Using OrbStack](https://fahmifj.github.io/articles/running-gns3-on-apple-m2-orbstack/)
 - [Bypass Blokir ISP: DoH, Hosts File, dan SSH Socks Proxy](https://fahmifj.github.io/articles/bypass-blokir-isp-tanpa-vpn/)
 - [Deploy a Hugo Site with Github Actions](https://fahmifj.github.io/articles/hugo-github-actions/)
-<!-- ARTICLES:END -->
+<!-- BLOG:END -->
 
 
 #### Write-ups
