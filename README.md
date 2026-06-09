@@ -42,9 +42,9 @@
 #### Blog
 
 <!-- BLOG:START -->
+- [PNETLab on Google Cloud - Part 2: Remote Access with Tailscale](https://fahmifj.github.io/blog/deploy-pnetlab-on-gcp-part-2-remote-access-tailscale/)
 - [Using Cloudflare Workers to Mirror My Blog](https://fahmifj.github.io/blog/mirror-website-using-cloudflare-workers/)
-- [Revamping My Blog Part II: Search Nav, ScrollSpy, SPA in Hugo](https://fahmifj.github.io/blog/revamping-my-blog-part-2/)
-- [Deploying PNETLab on Google Cloud](https://fahmifj.github.io/blog/deploy-pnetlab-on-gcp/)
+- [PNETLab on Google Cloud – Part 1: Server Deployment](https://fahmifj.github.io/blog/deploy-pnetlab-on-gcp-part-1/)
 - [Exposing an SMB Server to the Internet in Azure](https://fahmifj.github.io/blog/exposing-smb-server-to-internet-in-azure/)
 <!-- BLOG:END -->
 
