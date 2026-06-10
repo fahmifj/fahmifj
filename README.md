@@ -42,7 +42,7 @@
 #### Blog
 
 <!-- BLOG:START -->
-- [PNETLab on Google Cloud - Part 2: Remote Access with Tailscale](https://fahmifj.github.io/blog/deploy-pnetlab-on-gcp-part-2-remote-access-tailscale/)
+- [Transfer Hostinger Domain to Cloudflare](https://fahmifj.github.io/blog/transfer-hostinger-domain-to-cloudflare/)
 - [Using Cloudflare Workers to Mirror My Blog](https://fahmifj.github.io/blog/mirror-website-using-cloudflare-workers/)
 - [PNETLab on Google Cloud – Part 1: Server Deployment](https://fahmifj.github.io/blog/deploy-pnetlab-on-gcp-part-1/)
 - [Exposing an SMB Server to the Internet in Azure](https://fahmifj.github.io/blog/exposing-smb-server-to-internet-in-azure/)
